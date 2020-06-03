@@ -1,0 +1,13 @@
+C:\Breno USA\Senai\CalculadoraDesafio\bin\Debug\netcoreapp3.1\CalculadoraDesafio.exe
+C:\Breno USA\Senai\CalculadoraDesafio\bin\Debug\netcoreapp3.1\CalculadoraDesafio.deps.json
+C:\Breno USA\Senai\CalculadoraDesafio\bin\Debug\netcoreapp3.1\CalculadoraDesafio.runtimeconfig.json
+C:\Breno USA\Senai\CalculadoraDesafio\bin\Debug\netcoreapp3.1\CalculadoraDesafio.runtimeconfig.dev.json
+C:\Breno USA\Senai\CalculadoraDesafio\bin\Debug\netcoreapp3.1\CalculadoraDesafio.dll
+C:\Breno USA\Senai\CalculadoraDesafio\bin\Debug\netcoreapp3.1\CalculadoraDesafio.pdb
+C:\Breno USA\Senai\CalculadoraDesafio\obj\Debug\netcoreapp3.1\CalculadoraDesafio.csprojAssemblyReference.cache
+C:\Breno USA\Senai\CalculadoraDesafio\obj\Debug\netcoreapp3.1\CalculadoraDesafio.csproj.CoreCompileInputs.cache
+C:\Breno USA\Senai\CalculadoraDesafio\obj\Debug\netcoreapp3.1\CalculadoraDesafio.AssemblyInfoInputs.cache
+C:\Breno USA\Senai\CalculadoraDesafio\obj\Debug\netcoreapp3.1\CalculadoraDesafio.AssemblyInfo.cs
+C:\Breno USA\Senai\CalculadoraDesafio\obj\Debug\netcoreapp3.1\CalculadoraDesafio.dll
+C:\Breno USA\Senai\CalculadoraDesafio\obj\Debug\netcoreapp3.1\CalculadoraDesafio.pdb
+C:\Breno USA\Senai\CalculadoraDesafio\obj\Debug\netcoreapp3.1\CalculadoraDesafio.genruntimeconfig.cache
